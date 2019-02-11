@@ -1,0 +1,7 @@
+Hello ,
+In this project I have implemeted a web server which port number is 8000. 
+Web server provide multi threading.
+Server will return an Html file according to requested URI.
+And this document size must be between 100 and 20,000...
+
+I will share assignment details.
